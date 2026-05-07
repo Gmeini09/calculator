@@ -1,7 +1,6 @@
 // Titel: Aufgabe 2 – Taschenrechner (Mehrfachverzweigung)
 // Autor Philipp Gmeinbauer / 04.5.2026
 
-
 import java.util.Scanner;
 
 public class Main {
