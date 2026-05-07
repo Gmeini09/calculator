@@ -38,6 +38,7 @@ public class Main {
                     return;
                 }
                 break;
+
             default:
                 System.out.println("Ungültiger Operator!");
                 sc.close();
